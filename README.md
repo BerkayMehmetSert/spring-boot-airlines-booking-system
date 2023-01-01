@@ -4,7 +4,7 @@
 
 This is a simple Airlines Booking System.
 
-## Entity Diagram
+## Database Diagram
 
 ![Entity Diagram](./diagram.png)
 
